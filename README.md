@@ -1,9 +1,10 @@
 ## Hi there 👋
+(https://raw.githubusercontent.com/qkrwlgus5832/programmers-badge/master/static/result.svg)
+
 
 <!--
 **qkrwlgus5832/qkrwlgus5832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Here are some ideas to get you started:](https://raw.githubusercontent.com/qkrwlgus5832/programmers-badge/master/static/result.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
