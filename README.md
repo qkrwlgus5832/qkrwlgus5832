@@ -1,5 +1,5 @@
 ## Hi there 👋
-(https://raw.githubusercontent.com/qkrwlgus5832/programmers-badge/master/static/result.svg)
+https://raw.githubusercontent.com/qkrwlgus5832/programmers-badge/master/static/result.svg
 
 
 <!--
