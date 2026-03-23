@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwlgus5832)](https://solved.ac/qkrwlgus5832/)
 
 ## Skills ##
-![Kotlin](https://img.shields.io/badge/코틀린-7F52FF.svg?&style=for-the-badge&logo=코틀린&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -13,7 +13,7 @@
 
 ## Tools ##
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![intellij IDE](https://img.shields.io/badge/intellijidea%20IDE-2C2255.svg?&style=for-the-badge&logo=intellijidea%20IDE&logoColor=white)
+
 ## Resume ##
 https://qkrwlgus5832.github.io/resume/
 
