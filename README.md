@@ -27,7 +27,7 @@
 
 ## Contact ## 
 - Email: pjh_5890@naver.com
-- Blog: [https://your-blog.com](https://qkrwlgus5832.tistory.com/)
+- Blog: [https://qkrwlgus5832.tistory.com](https://qkrwlgus5832.tistory.com/)
 
 ## Resume ##
 https://qkrwlgus5832.github.io/resume/
