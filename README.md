@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Programmers Badge](https://raw.githubusercontent.com/qkrwlgus5832/programmers-badge/master/static/result.svg)
-[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=qkrwlgus5832&size=large)](https://github.com/2ykwang/solvedac-readme-badge)
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=qkrwlgus5832)](https://github.com/2ykwang/solvedac-readme-badge)
 
 <!--
 **qkrwlgus5832/qkrwlgus5832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
