@@ -21,6 +21,7 @@
   
 ### 🌐 Frontend
 - JavaScript
+- TypeScript
 
 ### ☁️ Infra & Cloud
 - AWS (EC2, S3, RDS)
