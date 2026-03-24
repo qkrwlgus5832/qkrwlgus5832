@@ -17,35 +17,6 @@
 ### ⚡ Cache & Messaging
 - Redis
 - Apache Kafka
-
-### 🌐 Frontend
-- JavaScript
-
-### ☁️ Infra & Cloud
-- AWS (EC2, S3, RDS)
-- Docker
-
-### 🔧 Tools
-- Git
- 
-## 💳 Certificate 
-- 정보처리기사
-  
-## 📫 Contact ## 
-- Email: pjh_5890@naver.com
-- Linkedin: ## ⚒️ Tech Stack
-
-### 🖥 Backend
-- Java, Kotlin
-- Spring, Spring Boot
-
-### 🗄 Database & ORM
-- MySQL, Oracle
-- JPA (Hibernate), MyBatis, QueryDSL
-
-### ⚡ Cache & Messaging
-- Redis
-- Apache Kafka
 - Aws SQS
   
 ### 🌐 Frontend
@@ -57,6 +28,7 @@
 
 ### 🔧 Tools
 - Git
+- Jira
   
 ## 📄 Resume ##
 Resume: [https://qkrwlgus5832.github.io/resume/](https://qkrwlgus5832.github.io/resume/)
