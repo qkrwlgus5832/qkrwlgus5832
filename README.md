@@ -27,16 +27,39 @@
 
 ### 🔧 Tools
 - Git
-
-- 
+ 
 ## 💳 Certificate 
 - 정보처리기사
   
 ## 📫 Contact ## 
 - Email: pjh_5890@naver.com
-- 
+- Linkedin: ## ⚒️ Tech Stack
+
+### 🖥 Backend
+- Java, Kotlin
+- Spring, Spring Boot
+
+### 🗄 Database & ORM
+- MySQL, Oracle
+- JPA (Hibernate), MyBatis, QueryDSL
+
+### ⚡ Cache & Messaging
+- Redis
+- Apache Kafka
+
+### 🌐 Frontend
+- JavaScript
+
+### ☁️ Infra & Cloud
+- AWS (EC2, S3, RDS)
+- Docker
+
+### 🔧 Tools
+- Git
+  
 ## 📄 Resume ##
 Resume: [https://qkrwlgus5832.github.io/resume/](https://qkrwlgus5832.github.io/resume/)
+Linkedin: [https://www.linkedin.com/in/park-jihyun-00b3941a5/](https://www.linkedin.com/in/park-jihyun-00b3941a5/)
 
 ## ✍️ Blog ##
 Blog: [https://qkrwlgus5832.tistory.com](https://qkrwlgus5832.tistory.com/)
