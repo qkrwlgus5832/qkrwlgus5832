@@ -1,37 +1,44 @@
-## Hi there 👋
+# 박지현 - BackEnd Developer 
+
 ## PS ##
 ![Programmers Badge](https://raw.githubusercontent.com/qkrwlgus5832/programmers-badge/master/static/result.svg)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwlgus5832)](https://solved.ac/qkrwlgus5832/)
 
-## 🛠 Tech Stack
+## ⚒️ Tech Stack
 
-### 💻 Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
+### 🖥 Backend
+- Java, Kotlin
+- Spring, Spring Boot
 
-### 🗄 Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+### 🗄 Database & ORM
+- MySQL, Oracle
+- JPA (Hibernate), MyBatis, QueryDSL
 
-### ☁️ Infra
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+### ⚡ Cache & Messaging
+- Redis
+- Apache Kafka
 
+### 🌐 Frontend
+- JavaScript
+
+### ☁️ Infra & Cloud
+- AWS (EC2, S3, RDS)
+- Docker
+
+### 🔧 Tools
+- Git
+
+- 
+## 💳 Certificate 
+- 정보처리기사
+  
 ## 📫 Contact ## 
 - Email: pjh_5890@naver.com
 - 
-## Resume ##
+## 📄 Resume ##
 Resume: [https://qkrwlgus5832.github.io/resume/](https://qkrwlgus5832.github.io/resume/)
 
-## Blog ##
+## ✍️ Blog ##
 Blog: [https://qkrwlgus5832.tistory.com](https://qkrwlgus5832.tistory.com/)
 
 <!--
