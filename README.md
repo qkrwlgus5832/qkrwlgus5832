@@ -46,7 +46,8 @@
 ### ⚡ Cache & Messaging
 - Redis
 - Apache Kafka
-
+- Aws SQS
+  
 ### 🌐 Frontend
 - JavaScript
 
