@@ -25,12 +25,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-## Contact ## 
+## 📫 Contact ## 
 - Email: pjh_5890@naver.com
-- Blog: [https://qkrwlgus5832.tistory.com](https://qkrwlgus5832.tistory.com/)
-
+- 
 ## Resume ##
-https://qkrwlgus5832.github.io/resume/
+Resume: [https://qkrwlgus5832.github.io/resume/]
+
+## Blog ##
+Blog: [https://qkrwlgus5832.tistory.com](https://qkrwlgus5832.tistory.com/)
 
 <!--
 **qkrwlgus5832/qkrwlgus5832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
