@@ -51,9 +51,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 </p>
   
-## 📄 Resume ##
-- Resume: [https://qkrwlgus5832.github.io/resume/](https://qkrwlgus5832.github.io/resume/)
-
 ## 📫 Contact ##
 - Email : pjh_5890@naver.com
 - Linkedin: [https://www.linkedin.com/in/park-jihyun-00b3941a5/](https://www.linkedin.com/in/park-jihyun-00b3941a5/)
